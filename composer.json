@@ -1,0 +1,36 @@
+{
+    "name": "jayden/okbuy4laravel",
+    "description": "好乐买商城接口",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jayden",
+            "email": "jinmaodao116@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "pimple/pimple": "^3.2",
+        "tightenco/collect": "^5.7",
+        "guzzlehttp/guzzle": "~6.0",
+        "jms/serializer": "^1.11",
+        "openlss/lib-array2xml": "^0.5.1",
+        "symfony/http-foundation": "~3.3|^4.1",
+        "dusank/knapsack": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jayden\\Okbuy4laravel\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jayden\\Okbuy4laravel\\OkbuyServiceProvider"
+            ],
+            "aliases": {
+                "Okbuy": "Jayden\\Okbuy4laravel\\Facades\\Okbuy"
+            }
+        }
+    }
+}
