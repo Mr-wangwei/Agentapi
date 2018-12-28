@@ -6,7 +6,7 @@
  * Time: 13:49
  */
 require  './autoload.php';
-$config = require '../src/config/okbuy.php';
+$config = require './config/okbuy.php';
 $application = new \Jayden\Okbuy4laravel\Okbuy($config);
 
 $request = new \Jayden\Okbuy4laravel\Agentapi\RequestAttribute\Brand\Request();

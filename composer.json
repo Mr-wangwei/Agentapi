@@ -22,15 +22,5 @@
         "psr-4": {
             "Jayden\\Okbuy4laravel\\": "src/"
         }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Jayden\\Okbuy4laravel\\OkbuyServiceProvider"
-            ],
-            "aliases": {
-                "Okbuy": "Jayden\\Okbuy4laravel\\Facades\\Okbuy"
-            }
-        }
     }
 }

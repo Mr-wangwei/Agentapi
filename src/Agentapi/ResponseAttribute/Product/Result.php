@@ -29,7 +29,7 @@ class Result
 	/**
 	 * @JMS\XmlElement(cdata=false)
 	 * @SerializedName("Product")
-	 * @JMS\Type("array<string,array>")
+	 * @JMS\Type("array<Jayden\Okbuy4laravel\Agentapi\ResponseAttribute\Product\Product>")
 	 */
 	public $product;
 
