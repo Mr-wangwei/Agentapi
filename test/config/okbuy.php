@@ -11,10 +11,10 @@ return [
     //好乐买验签相关
     'agent_config' => [
 	    //服务商ID
-	    'AgentId' => '',
+	    'AgentId' => '18347605',
 	    //秘钥
-	    'key' => '',
+	    'key' => '18347605_17610032212_c3657c2cd652c04dea29996ea2b41ba8',
 	    //支付密码
-	    'paypwd' => '',
+	    'paypwd' => 'f379eaf3c831b04de153469d1bec345e',
     ]
 ];
