@@ -1,10 +1,9 @@
 <?php
 /**
- * User: lyz
- * Date: 2018/12/21
- * Time: 2:29 PM
- * Project: LemonSass
- * FILE: AgentApiServiceProvider.php
+ * Created by PhpStorm.
+ * User: wangwei
+ * Date: 2018/12/26
+ * Time: 13:51
  */
 
 namespace Jayden\Okbuy4laravel\Agentapi;

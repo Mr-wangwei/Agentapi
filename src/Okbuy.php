@@ -1,10 +1,9 @@
 <?php
 /**
- * User: lyz
- * Date: 2018/9/3
- * Time: 下午10:30
- * Project: LemonSass
- * FILE: Okbuy.php
+ * Created by PhpStorm.
+ * User: wangwei
+ * Date: 2018/12/26
+ * Time: 13:51
  */
 
 namespace Jayden\Okbuy4laravel;
