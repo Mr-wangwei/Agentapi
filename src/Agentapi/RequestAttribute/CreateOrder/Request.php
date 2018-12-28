@@ -6,7 +6,7 @@
  * Time: 10:10
  */
 
-namespace Jayden\Okbuy4laravel\Agentapi\RequestAttribute\CreateOrde;
+namespace Jayden\Okbuy4laravel\Agentapi\RequestAttribute\CreateOrder;
 
 use Jayden\Okbuy4laravel\Core\BaseRequestAttribute;
 use JMS\Serializer\Annotation as JMS;
