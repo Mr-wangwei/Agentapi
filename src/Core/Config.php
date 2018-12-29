@@ -10,7 +10,7 @@
 namespace Jayden\Okbuy4laravel\Core;
 
 
-use Tightenco\Collect\Support\Collection;
+use DusanKasan\Knapsack\Collection;
 
 class Config extends Collection
 {
